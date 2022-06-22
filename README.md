@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **lucasgomesit/lucasgomesit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Lucas and I'm looking for my first job opportunity as a front-end developer. I've been studying HTML, CSS and JavaScript in a self-taught way(through books, documentation, videos and exercises). I also have a technology degree in software development and analysis.
+I'm Lucas and I'm looking for my first job opportunity as a front-end developer. I've been studying HTML, CSS and JavaScript in a self-taught way(through books, documentation, videos and exercises). I also have a technology degree in software development and analysis.
 
 Thank you for visiting my repository. 
 
-Contact Information:
+
+
+<strong>Contact Information:</strong>
 
 E-mail: Lgomesferreira@outlook.com
 
