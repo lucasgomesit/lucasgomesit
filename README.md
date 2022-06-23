@@ -10,12 +10,9 @@ I'm Lucas and I'm looking for my first job opportunity as a front-end developer.
 
 Thank you for visiting my repository. 
 
-
-
-
 ---
 
-<strong>Informações de Contato / Contact Information:</strong>
+<strong>Informações para Contato / Contact Information:</strong>
 
 <a href="https://www.linkedin.com/in/lucasgomesit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 
