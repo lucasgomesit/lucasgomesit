@@ -19,7 +19,7 @@ E-mail: Lgomesferreira@outlook.com
 Celular / Phone number: +55 31 97517-4645
 
 LinkedIn: https://www.linkedin.com/in/lucasgomesit/  
-  
+<a href="https://www.linkedin.com/in/lucasgomesit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 
 <!--
 **lucasgomesit/lucasgomesit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
