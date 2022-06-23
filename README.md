@@ -14,7 +14,7 @@ Thank you for visiting my repository.
 
 <strong>Informações de Contato / Contact Information:</strong>
 
-<a href="https://www.linkedin.com/in/lucasgomesit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
+<a href="https://www.linkedin.com/in/lucasgomesit/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 
 E-mail: Lgomesferreira@outlook.com 
 
