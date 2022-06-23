@@ -10,11 +10,16 @@ I'm Lucas and I'm looking for my first job opportunity as a front-end developer.
 
 Thank you for visiting my repository. 
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40px" width="40px"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40px" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px" />
+
 ---
 
 <strong>Informações de Contato / Contact Information:</strong>
 
-<a href="https://www.linkedin.com/in/lucasgomesit/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
+<a href="https://www.linkedin.com/in/lucasgomesit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 
 E-mail: Lgomesferreira@outlook.com 
 
@@ -36,7 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 
 
