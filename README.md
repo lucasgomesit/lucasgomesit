@@ -6,7 +6,7 @@ Obrigado pela visita.
 
 ### A little bit about me:
 
-I'm Lucas and I'm looking for my first job opportunity as a front-end developer. I've been studying HTML, CSS and JavaScript in a self-taught way(through books, documentation, videos and exercises). I also have a technology degree in software development and analysis.
+I'm Lucas and I'm looking for my first job opportunity as a front-end developer. I've been studying HTML, CSS and JavaScript in a self-taught way (through books, documentation, videos and exercises). I also have a technology degree in software development and analysis.
 
 Thank you for visiting my repository. 
 
