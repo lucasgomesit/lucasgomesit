@@ -12,7 +12,7 @@ Thank you for visiting my repository.
 
 E-mail: Lgomesferreira@outlook.com
 
-Phone number: +55 31 97517-4645
+Celular / Phone number: +55 31 97517-4645
 
 LinkedIn: https://www.linkedin.com/in/lucasgomesit/  
   
