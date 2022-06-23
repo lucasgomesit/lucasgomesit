@@ -2,6 +2,8 @@
 
 Olá, sou o Lucas, e busco minha primeira oportunidade de emprego como desenvolvedor front-end. Tenho estudado HTML, CSS e JavaScript de maneira autodidata (por meio de exercícios, documentação, vídeos e livros). Também sou formado em Análise e Desenvolvimento de Sistemas (tecnólogo). 
 
+Obrigado pela visita.
+
 ### A little bit about me:
 
 I'm Lucas and I'm looking for my first job opportunity as a front-end developer. I've been studying HTML, CSS and JavaScript in a self-taught way(through books, documentation, videos and exercises). I also have a technology degree in software development and analysis.
