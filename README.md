@@ -1,12 +1,12 @@
 ### Um pouco sobre mim:
 
-Olá, sou o Lucas. Busco minha primeira oportunidade de emprego como desenvolvedor front-end. Tenho estudado HTML, CSS e JavaScript de maneira autodidata (por meio de exercícios, documentação, vídeos e livros). Também sou formado em Análise e Desenvolvimento de Sistemas (tecnólogo). 
+Olá, sou o Lucas. Busco minha primeira oportunidade de emprego como desenvolvedor front-end. Tenho estudado HTML, CSS, JavaScript e ReactJS de maneira autodidata (por meio de exercícios, documentação, vídeos e livros). Também sou formado em Análise e Desenvolvimento de Sistemas (tecnólogo). 
 
 Obrigado pela visita.
 
 ### A little bit about me:
 
-Hello, I'm Lucas. I'm looking for my first job opportunity as a front-end developer. I've been studying HTML, CSS and JavaScript in a self-taught way (through books, documentation, videos and exercises). I also have a technology degree in software development and analysis.
+Hello, I'm Lucas. I'm looking for my first job opportunity as a front-end developer. I've been studying HTML, CSS, JavaScript and ReactJS in a self-taught way (through books, documentation, videos and exercises). I also have a technology degree in software development and analysis.
 
 Thank you for visiting my repository. 
 
