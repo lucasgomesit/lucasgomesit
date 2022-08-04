@@ -22,10 +22,10 @@ Celular / Phone number: +55 31 97517-4645
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40px" width="40px"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40px" width="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px" />
-<img src="https://badges.aleen42.com/src/react.svg" height="40px" width="120px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30px" width="30px"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30px" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30px" width="30px" />
+<img src="https://badges.aleen42.com/src/react.svg" height="30px" width="90px" />
 
 <!--
 **lucasgomesit/lucasgomesit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
